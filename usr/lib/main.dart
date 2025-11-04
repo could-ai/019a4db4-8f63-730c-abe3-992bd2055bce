@@ -1,5 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:yono_club/screens/home_screen.dart';
+import 'package:yono_club/screens/dragon_vs_tiger.dart';
+import 'package:yono_club/screens/roulette.dart';
+import 'package:yono_club/screens/spin_game.dart';
+import 'package:yono_club/screens/jungle_daylight.dart';
+import 'package:yono_club/screens/slot_777.dart';
+import 'package:yono_club/screens/die_game.dart';
+import 'package:yono_club/screens/teen_patti.dart';
+import 'package:yono_club/screens/aviator.dart';
 
 void main() {
   runApp(const YonoClubApp());
